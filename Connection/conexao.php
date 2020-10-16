@@ -1,15 +1,7 @@
 <?php 
-// Credenciais de acesso ao BD
-// define('HOST', 'mysql.prizor.com.br');
-// define('USER', 'prizor02');
-// define('PASS', 'brasil2009');
-// define('DBNAME', 'prizor02');
-
-// $conn = new PDO('mysql:host='.HOST.';dbname='.DBNAME.';', USER, PASS);
-//session_start();
 
 $hostname_conexao = "localhost";
-$database_conexao = "am_bf_venancio";
+$database_conexao = "am_clinica_estetica";
 $username_conexao = "root";
 $password_conexao = "";
 
